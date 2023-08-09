@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm sbincx</h1>
 <h3 align="center">I analyze data make beep-boops for trading algos.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sbcptl" alt="sbcptl" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/sbincx" target="blank"><img src="https://img.shields.io/twitter/follow/sbincx?logo=twitter&style=for-the-badge" alt="sbincx" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
